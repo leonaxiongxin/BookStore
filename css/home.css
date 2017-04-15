@@ -1,0 +1,29 @@
+.home{
+	margin-top:2%;
+	margin-bottom:10%;
+	width:80%;
+	margin:auto;
+}
+.slogan{
+	color:#23527C;
+	text-align:center;
+	font-size: 32px;
+    font-family: Verdana, Geneva, sans-serif;
+}
+.form-group{
+	
+}
+.row{
+	margin-top:1%;
+	margin-bottom:1%;
+}
+input{
+   background-color:#545652;
+   border-radius: 8px; 
+   border:1px solid #cccccc;
+   color:white;
+}
+
+.btn{
+	margin-top:3%;
+}

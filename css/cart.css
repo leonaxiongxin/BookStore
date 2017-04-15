@@ -1,0 +1,53 @@
+  
+  .title{
+         text-align: center;
+         padding: 10px;
+         border-radius: 5px;
+         border-bottom-left-radius: 0px;
+         border-bottom-right-radius: 0px;
+         background: #ececec;
+         font-size: 18pt;
+         font-weight: 600;
+         font-family: Verdana, Geneva, sans-serif;
+         color: #666666;
+    }
+    .table_head{
+	     background-color: #F6F6F1; 
+		 color: #545652;
+    }
+    .count{
+	     text-align: right; 
+		 margin-right: 30px;
+    }
+    .main_car{
+		   font-size: 17px; 
+		   width: 60%;
+           margin-left:auto;
+           margin-right:auto;
+		   position: relative; 
+		   margin-top: 5%;		   
+		   border:1px solid #cccccc;
+           border-radius: 5px;
+		   padding-bottom:15px;}
+    .main_car tr{
+	       height: 38px;
+		 }
+     .btn_box{
+	       margin-top: 40px;
+		   margin-bottom: 15px;
+		   position: relative;
+		   left: 65%;
+	}
+     .btn_box button{
+	       margin-right: 40px;
+	 }
+     table tr td {
+	       text-align: center;
+		   border:1px solid #F6F6F1;
+     }
+	 
+	 
+	 
+	 
+	 
+	 
